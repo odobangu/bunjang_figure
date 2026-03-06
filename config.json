@@ -1,0 +1,32 @@
+{
+    "telegram_token": "8774907459:AAFTo1SjHvA8T4-huS3vJTrgs8A1x_ngqec",
+    "telegram_chat_id": "8278374658",
+
+    "search_interval": 30,
+
+    "similarity_threshold": 0.8,
+
+    "products": [
+        {
+            "name": "바쿠고 b상",
+
+            "required_keywords": [
+                "바쿠고",
+                "b상"
+            ],
+
+            "optional_keywords": [
+                "이어지는 마음",
+                "이치방쿠지",
+                "제일복권"
+            ],
+
+            "exclude_keywords": [
+                "비현물"
+            ],
+
+            "min_price": 190000,
+            "max_price": 250000
+        }
+    ]
+}
